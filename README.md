@@ -1,6 +1,6 @@
 ### Hi there! I’m Thiago Ribeiro
 
-- 🌱 I’m currently learning JavaScript and CSS
+- 🌱 I’m currently learning JavaScript,CSS, BootStrap, jQuery and C#
 - 📫 How to reach me: thiagoribeiromw@gmail.com
 
  <div>
