@@ -1,9 +1,13 @@
 ### Hi there! I’m Thiago Ribeiro
 
-- 🌱 I’m currently learning JavaScript,CSS, BootStrap, jQuery and C#
+- 🌱 I’m currently learning JavaScript,CSS, BootStrap, jQuery, React, NodeJS, Angular and C#
 - 📫 How to reach me: thiagoribeiromw@gmail.com
 
-
+ <div>
+  <a href="https://github.com/thiagomw">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomw&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomw&layout=compact&langs_count=7&theme=radical"/>
+</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
