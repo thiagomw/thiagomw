@@ -1,6 +1,6 @@
 ## Hi there! I'm Thiago Ribeiro 👋
 
-- 💼 **Service Desk Engineer @ LTM** — Microsoft Azure environment
+- 💼 **Service Desk Engineer @ LTM**
 - ☁️ Studying **DevOps**, **AWS**, **Docker**, **Python** and **AI**
 - 🔁 Infrastructure & Support background transitioning into **DevOps & Cloud**
 - 🎓 Computer Networks — **FIAP**
